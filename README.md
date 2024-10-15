@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# John Doe
 
-## Getting Started
+**Email**: rabetsyrolio@gmail.com
+**Téléphone**: 0328071512
+**LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/rolio-rabetsy-28b245251)  
+**GitHub**: [github.com/johndoe](https://github.com/WAROL52)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Résumé
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Développeur Full-Stack passionné avec 5 ans d'expérience dans la conception et le développement d'applications web en utilisant des technologies comme JavaScript, React, Node.js, et TypeScript. Toujours à la recherche de nouveaux défis pour améliorer mes compétences techniques.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Compétences
 
-## Learn More
+- **Langages**: JavaScript, TypeScript, Python, C
+- **Frameworks**: React, Next.js, Node.js, Express
+- **Bases de données**: MySQL, PostgreSQL, MongoDB
+- **Outils**: Git, Docker, Jenkins, VSCode
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Expérience professionnelle
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Développeur Full-Stack
 
-## Deploy on Vercel
+**Entreprise X**, Paris, France  
+_Janvier 2020 – Présent_
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Développement et maintenance d'applications web avec React et Node.js.
+- Conception et gestion de bases de données MySQL et MongoDB.
+- Implémentation d'API RESTful pour des applications mobiles et web.
+- Formation et mentorat de stagiaires et développeurs juniors.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Développeur Front-End
+
+**Entreprise Y**, Lyon, France  
+_Septembre 2017 – Décembre 2019_
+
+- Création d'interfaces utilisateurs dynamiques et réactives avec React.
+- Collaboration avec des équipes multidisciplinaires pour livrer des produits de haute qualité.
+- Optimisation des performances front-end et amélioration de l'expérience utilisateur.
+
+---
+
+## Formation
+
+### Master en Informatique
+
+**Université de Paris**, France  
+_2015 – 2017_
+
+---
+
+## Projets
+
+- **[Portfolio personnel](https://johndoe.dev)**: Création d'un portfolio pour présenter mes projets personnels.
+- **[Application de gestion de tâches](https://github.com/johndoe/todo-app)**: Une application open-source de gestion de tâches, construite avec React et Node.js.
+
+---
+
+## Certifications
+
+- **Certified Kubernetes Administrator (CKA)** – 2021
+- **Google Professional Cloud Architect** – 2020
+
+---
+
+## Langues
+
+- **Français**: Langue maternelle
+- **Anglais**: Courant
+
+---
+
+## Références
+
+Disponible sur demande.
