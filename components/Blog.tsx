@@ -15,7 +15,7 @@ export function Blog() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="./assets/images/blog-1.jpg"
+                  src="https://avatars.githubusercontent.com/u/71975597?v=4"
                   alt="Design conferences in 2022"
                   loading="lazy"
                 />
@@ -40,7 +40,7 @@ export function Blog() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="./assets/images/blog-2.jpg"
+                  src="https://avatars.githubusercontent.com/u/71975597?v=4"
                   alt="Best fonts every designer"
                   loading="lazy"
                 />
@@ -65,7 +65,7 @@ export function Blog() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="./assets/images/blog-3.jpg"
+                  src="https://avatars.githubusercontent.com/u/71975597?v=4"
                   alt="Design digest #80"
                   loading="lazy"
                 />
@@ -88,7 +88,7 @@ export function Blog() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="./assets/images/blog-4.jpg"
+                  src="https://avatars.githubusercontent.com/u/71975597?v=4"
                   alt="UI interactions of the week"
                   loading="lazy"
                 />
@@ -113,7 +113,7 @@ export function Blog() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="./assets/images/blog-5.jpg"
+                  src="https://avatars.githubusercontent.com/u/71975597?v=4"
                   alt="The forgotten art of spacing"
                   loading="lazy"
                 />
@@ -138,7 +138,7 @@ export function Blog() {
             <a href="#">
               <figure className="blog-banner-box">
                 <img
-                  src="./assets/images/blog-6.jpg"
+                  src="https://avatars.githubusercontent.com/u/71975597?v=4"
                   alt="Design digest #79"
                   loading="lazy"
                 />

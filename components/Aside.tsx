@@ -1,10 +1,15 @@
 import { Data } from "@/data";
+import HyperText from "./ui/hyper-text";
 
 export type AsideProps = Data["info"];
 export function Aside(info: AsideProps) {
   const fullName = `${info.firstname} ${info.lastName}`;
   return (
-    <aside className="sidebar" data-sidebar>
+    <aside
+      className="sidebar"
+      // style={{ background: "transparent" }}
+      data-sidebar
+    >
       <div className="sidebar-info">
         <figure className="avatar-box ">
           <img
@@ -16,7 +21,7 @@ export function Aside(info: AsideProps) {
         </figure>
         <div className="info-content">
           <h1 className="name" title={fullName}>
-            {fullName}
+            <HyperText className="" text={fullName} />
           </h1>
           <p className="title">{info.tag}</p>
         </div>

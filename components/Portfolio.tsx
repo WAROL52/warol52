@@ -2,6 +2,7 @@
 import { Data } from "@/data";
 import { useMenuStore } from "@/hooks/useMenuStore";
 import React, { useMemo } from "react";
+import { IconCloudDemo } from "./IconCloudDemo";
 
 function getClassName(active: boolean) {
   if (!active) {
@@ -34,6 +35,7 @@ export function Portfolio({ projets }: { projets: Data["projets"] }) {
       <header>
         <h2 className="h2 article-title">Projets</h2>
       </header>
+
       <section className="projects">
         <ul className="filter-list">
           <li className="filter-item">
@@ -83,6 +85,7 @@ export function Portfolio({ projets }: { projets: Data["projets"] }) {
             </li>
           </ul>
         </div>
+
         <ul className="project-list">
           {fProjets.map((projet) => {
             return (
@@ -107,6 +110,7 @@ export function Portfolio({ projets }: { projets: Data["projets"] }) {
           })}
         </ul>
       </section>
+      <IconCloudDemo />
     </article>
   );
 }

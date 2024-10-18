@@ -3,19 +3,29 @@ import { create } from "zustand";
 
 interface MenuState {
   actived: string;
+  activedAll: boolean;
   activeMenu: (menu: string) => void;
+  activeAllMenu: () => void;
+  disableAllMenu: () => void;
   isActived: (menu: string) => boolean;
   getClassNameMenu: (menu: string) => string;
 }
 
 export const useMenuStore = create<MenuState>()((set, get) => ({
   actived: "About",
+  activedAll: false,
   activeMenu: (menu) => set(() => ({ actived: menu })),
   isActived: (menu) => get().actived === menu,
   getClassNameMenu: (menu) =>
-    get().actived === menu
+    get().actived === menu || get().activedAll
       ? `${menu.toLowerCase()} active`
       : `${menu.toLowerCase()}`,
+  activeAllMenu() {
+    set({ activedAll: true });
+  },
+  disableAllMenu() {
+    set({ activedAll: false });
+  },
 }));
 
 const data = {
